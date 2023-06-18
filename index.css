@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+    background: #bc6c25
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.scores {
+    margin-top: 10px;
+    text-align: center;
+    color: #F94F6D;
+    background: black;
+    margin: 20px;
+    width: 150px;
+    font-size: 90px;
+    border-radius: 5px;
+}
+
+#title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    margin-bottom: -10px;
+    
+}
+
+#add-points-btn-home {
+    background: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn-style {
+    color: white;
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 8px 10px;
+}
+
+#add-points-btn-away {
+    background: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.btn-style-dec {
+    margin-top: 10px;
+    color: white;
+    background: none;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 8px 10px;
+}
